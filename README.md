@@ -8,7 +8,7 @@ During the tutorial, you will:
 3. Learn how to build graphical user interfaces (GUIs) with Tkinter 
 4. Put together all of these to write and customize a GUI-based wordle game
 
-_ If you are doing this as a visitor to [Computer Science at Durham University](https://www.durham.ac.uk/departments/academic/computer-science/) you will see how all of this plays together during a live coding session._ 
+_If you are doing this as a visitor to [Computer Science at Durham University](https://www.durham.ac.uk/departments/academic/computer-science/) you will see how all of this plays together during a live coding session._ 
 
 <!-- # Getting Started -->
 <!-- # Imperative Programming with Python -->
@@ -44,23 +44,22 @@ The following coding ideas are ordered by increasing levels of difficulty. Feel 
 
 **Warning**: May contain advertising.
 
-**Can't get enough about algorithms and flow charts?**
-
+**Can't get enough about algorithms and flow charts?**<br />
 Dive into _[Algorithms and Data Structures (COMP1081)](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2021&module_code=COMP1081)_ at Durham University.
 
-**Want to learn more about this fancy list comprehension stuff?**
+**Want to learn more about this fancy list comprehension stuff?**<br />
 Attend our course on _[Programming Paradigms (COMP2221)](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2021&module_code=COMP2221)_.
 
-**Tired of setting up interesting word lists manually?**
+**Tired of setting up interesting word lists manually?**<br />
 Dive into _[Data Science (COMP2271)](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2021&module_code=COMP2271)_ at Durham University.
 
-**Tired of solving wordl yourself?**
+**Tired of solving wordl yourself?**<br />
 Get into _[Artificial Intelligence (COMP2261)](https://www.dur.ac.uk/faculty.handbook/module_description/?year=2021&module_code=COMP2261)_ and develop an AI player that solves wordle.
 
-**Want to solve thousands of wordles at the same time?**
+**Want to solve thousands of wordles at the same time?**<br />
 Join our [Student Cluster Competition](https://scicomp.webspace.durham.ac.uk/events/scc/) team.
 
-**Have yet another fancy wordle idea?**
+**Have yet another fancy wordle idea?**<br />
 Find teammates and attend [DurHack](https://durhack.com/)!
 
 **Making a long story short: Study at [Durham University](https://www.durham.ac.uk)!**
