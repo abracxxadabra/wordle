@@ -18,7 +18,7 @@ In wordle, the player aims to guess a secret 5-letter word in at most 6 tries. T
 2. Yellow means the letter is part of the word but in another position
 3. Gray means the letter is not part of the word at all
 
-[wordle](img/wordle)
+<img src="img/ny_wordle.jpg" width="250">
 
 # Getting Started
 A few quick steps to get you started:
@@ -26,7 +26,7 @@ A few quick steps to get you started:
 1. Ensure the computer is booted into Linux
 2. Login with the provided username and password
 3. Download this repo (_wordl-main.zip_) to your computer
-4. Right click _TODO_ to unzip it
+4. Right click _Extract To..._> choose directory > _Extract_ to unzip it
 5. Start Visual Studio Code (Menu: _Applications_ > _Programming_ > _Visual Studio Code_)
 6. Within Visual Studio Code select _File_ > _New File_
     * Click _"Select a language"_ and choose _"Python"_
@@ -34,24 +34,23 @@ A few quick steps to get you started:
     * Click _"Install"_ and wait ~1 minute whilst everything is setup for you
 7. Click _File_ > _Open File..._ to open one of the Python files in the _wordl-main_ directory
 **You are now ready to start coding**
-
-![Python Setup](img/vs-code-python-setup.png)
-![Python Installed](img/vs-code-python-installed.png)
+<img src="img/vs-code-python-setup.png" width="400">
+<img src="img/vs-code-python-installed.png" width="400">
 
 <!-- # Imperative Programming with Python -->
 <!-- # Build a GUI with Tkinter -->
 <!-- # Wordle Flowchart -->
 # Code Wordle
 Subject to your previous programming experience, start with the following Python template:
-- **wordle_level1**, if you have never programmed before (style: remove comment symbols)
-- **wordle_level2**, if you have a bit of programming experience in any programming language (style: fill-in gaps)
-- **wordle_level3**, if you have programming experience in Python (style: implement key function for wordle rules)
+- [**wordle_level1.py**](wordle_level1.py), if you have never programmed before (style: remove comment symbols)
+- [**wordle_level2.py**](wordle_level2.py), if you have a bit of programming experience in any programming language (style: fill-in gaps)
+- [**wordle_level3.py**](wordle_level3.py), if you have programming experience in Python (style: implement key function for wordle rules)
 - **nothing**, if you prefer to start from scratch (Note: a console-based wordle can be written in 20 lines of Python)
 
 # Make it yours!
 The following coding ideas are ordered by increasing levels of difficulty. Feel free to start with whichever idea you feel comfortable with (or, even better, implement your own ideas!):
-1. **Personalize wordle**:
-    - Apply a different color scheme
+1. **Customize wordle**:
+    - Apply a different colour scheme
     - Change font
     - Ask for words from a specific topic (Harry Potter, geordie dialect, computer science, food,  ...)
     - Ask for words in another language 
@@ -62,10 +61,10 @@ The following coding ideas are ordered by increasing levels of difficulty. Feel 
     - Longer words/fewer guesses (Could a perfect player always win the game with the specified number of guesses?)
     - Prohibit guesses that are not in the dictionary 
 4. **Tweak wordle**:
-    - ill-wordle
-    - primerle
-    - numberle
-    - absurdle 
+    - [ill-wordle](https://alexpeattie.com/blog/establishing-minimum-guesses-wordle/): Find the secret word ending with _ills_.
+    - [primel](https://converged.yt/primel/): Find the secret prime number.
+    - [numberle](https://numberle.org/): Guess the equation.
+    - [absurdle](https://qntm.org/absurdle): An adversarial variant of wordle. 
 
 # Become a Guru in Wordle Theory and Practice
 
