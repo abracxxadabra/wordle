@@ -10,7 +10,26 @@ During the tutorial, you will:
 
 _If you are doing this as a visitor to [Computer Science at Durham University](https://www.durham.ac.uk/departments/academic/computer-science/) you will see how all of this plays together during a live coding session._ 
 
-<!-- # Getting Started -->
+# Getting Started
+A few quick steps to get you started:
+
+1. Ensure the computer is booted into Linux
+2. Login with the provided username and password
+3. Download this repo (_wordl-main_) to your computer
+4. Unzip it
+5. Start Visual Studio Code (Menu: _Applications_ > _Programming_ > _Visual Studio Code_)
+6. Within Visual Studio Code select _File_ > _New File_
+    * Click _"Select a language"_ and choose _"Python"_
+    * It will then say _"Do you want to install the recommended extensions for Python?"_
+    * Click _"Install"_ and wait ~1 minute whilst everything is setup for you
+![RGB Diagram](img/vs-code-python-setup.png)
+![RGB Diagram](img/vs-code-python-installed.png)
+7. Click _File_ > _Open File..._ to open one of the Python files in _wordl-main_
+![vs-code-python-installed](https://user-images.githubusercontent.com/98532924/159362477-fc9e65d3-f116-4ed5-9f07-c38e926e8275.png)
+![vs-code-python-run](https://user-images.githubusercontent.com/98532924/159362481-167e3a65-0fbe-4c24-b867-5c80ea1034a7.png)
+![vs-code-python-setup](https://user-images.githubusercontent.com/98532924/159362483-02695bad-1303-4935-9a09-bd63588a05e8.png)
+
+**You are now ready to start coding**
 <!-- # Imperative Programming with Python -->
 <!-- # Build a GUI with Tkinter -->
 <!-- # Wordle Flowchart -->
@@ -63,10 +82,3 @@ Join our [Student Cluster Competition](https://scicomp.webspace.durham.ac.uk/eve
 Find teammates and attend [DurHack](https://durhack.com/)!
 
 **Making a long story short: Study at [Durham University](https://www.durham.ac.uk)!**
-
-<!--- 
-
-adversarail algorithm that aims to win by stopping you from guessing the word
-master mind (can provably be solven in 5 guesses, while wordle cannot - dependent on word list) 
-
----!>
