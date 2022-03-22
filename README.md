@@ -21,6 +21,13 @@ In wordle, the player aims to guess a secret 5-letter word in at most 6 tries. T
 <img src="img/ny_wordle.jpg" width="250">
 
 # Wordle Flowchart
+Flowcharts are a graphical way to describe processes and algorithms.
+Flowcharts consist of (at least) three types of nodes:
+1. Rectangles with rounded corners: terminator nodes 
+2. Rectangles: instruction nodes
+3. Rhombuses: conditional nodes
+
+The following flowchart depicts the the wordle rules for providing hints to the player - you may find it useful while coding through wordle.
 <img src="img/flowchart_wordle.svg" width="500">
 
 # Getting Started
