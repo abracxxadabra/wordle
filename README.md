@@ -20,6 +20,9 @@ In wordle, the player aims to guess a secret 5-letter word in at most 6 tries. T
 
 <img src="img/ny_wordle.jpg" width="250">
 
+# Wordle Flowchart
+<img src="img/flowchart_wordle.svg" width="500">
+
 # Getting Started
 A few quick steps to get you started:
 
@@ -39,7 +42,7 @@ A few quick steps to get you started:
 
 <!-- # Imperative Programming with Python -->
 <!-- # Build a GUI with Tkinter -->
-<!-- # Wordle Flowchart -->
+
 # Code Wordle
 Subject to your previous programming experience, start with the following Python template:
 - [**wordle_level1.py**](wordle_level1.py), if you have never programmed before (style: remove comment symbols)
