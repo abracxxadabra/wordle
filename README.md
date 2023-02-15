@@ -98,4 +98,4 @@ Join our [Student Cluster Competition](https://scicomp.webspace.durham.ac.uk/eve
 **Have yet another fancy wordle idea?**<br />
 Find teammates and attend [DurHack](https://durhack.com/)!
 
-**Making a long story short: Study at [Durham University](https://www.durham.ac.uk)!**
+**Making a long story short: Study computer science at [Durham University](https://www.durham.ac.uk)!**
