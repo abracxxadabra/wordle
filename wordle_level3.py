@@ -7,7 +7,7 @@ WORD_LENGTH = 5
 def main():
     print("Your task is the implementation of the checkGuess(...) function. The function describes the core logic of wordle by determining and displaying the colouring hint for each letter of a guess. And, after providing the hints, waits for the next guess via awaitGuess(...). \n Implement the hinting rules of wordle and remove the 'pass' statement in order to complete the code.")
     #Harry Potter words with 5 characters
-    words = ['accio','magic','harry','giant','ghoul','curse']
+    words = ['witch','magic','giant','ghoul','curse']
     secret = random.choice(words)
 
     #Create graphical user interface
