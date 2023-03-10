@@ -8,7 +8,7 @@ def main():
     print("Your task is the implementation of the checkGuess(...) function. The function describes the core logic of wordle by determining and displaying the colouring hint for each letter of a guess. \n The # at the beginning of a line indicates that this line is a so-called comment, meaning that it is not executed. Remove the #s on each line of checkGuess(...) and the 'pass' statement in order to complete the code. Try to understand what each line is doing.")
 
     #Create list of Harry Potter words with 5 characters
-    words = ['accio','magic','harry','giant','ghoul','curse']
+    words = ['witch','magic','giant','ghoul','curse']
     secret = random.choice(words)
 
     #Create graphical user interface
