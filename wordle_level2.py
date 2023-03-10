@@ -7,7 +7,7 @@ WORD_LENGTH = 5
 def main():
     print("Your task is the implementation of the checkGuess(...) function. The function describes the core logic of wordle by determining and displaying the colouring hint for each letter of a guess. \n First, find the '???' symbols and substitute them with valid python code. Second, remove the comment symbol '#' on each line of checkGuess(...) as well as the 'pass' statement in order to complete the code.")
     #Harry Potter words with 5 characters
-    words = ['accio','magic','harry','giant','ghoul','curse']
+    words = ['witch','magic','giant','ghoul','curse']
     secret = random.choice(words)
 
     #Create graphical user interface
