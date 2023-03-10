@@ -8,8 +8,6 @@ During the tutorial, you will:
 3. Learn how to build graphical user interfaces (GUIs) with Tkinter 
 4. Put together all of these to write and customize a GUI-based wordle game
 
-_If you are doing this as a visitor to [Computer Science at Durham University](https://www.durham.ac.uk/departments/academic/computer-science/) you will see how all of this plays together during a live coding session._ 
-
 # Wordle in a Nutshell
 _Wordle_ is a single-player word guessing game developed by Josh Wardle. Its (probably) most famous version can be found at the website of the [NY Times](https://www.nytimes.com/games/wordle/index.html) and can be played only once a day. 
 
