@@ -6,7 +6,7 @@ WORD_LENGTH = 5
 
 def main():
     #Harry Potter words with 5 characters
-    words = ['accio','magic','harry','giant','ghoul','curse']
+    words = ['witch','magic','giant','ghoul','curse']
     secret = random.choice(words)
 
     #Create graphical user interface
